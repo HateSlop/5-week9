@@ -1,4 +1,4 @@
-# LoRA Fine-tuning 과제
+# 9주차 과제
 
 [공통 노트북](skeleton.ipynb)을 Colab에 업로드하고 Language·Vision·Speech 중 하나를 선택합니다.
 
